@@ -1,0 +1,6 @@
+{
+  "name": "Minimum Spanning Tree Lab",
+  "description": "Interactive Data Structures Laboratory for Minimum Spanning Tree (MST) algorithms, featuring Prim's and Kruskal's visualizers, quizzes, viva questions, and practices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
